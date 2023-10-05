@@ -4,7 +4,7 @@
 
 ## Description
 
-This Smart Parking System, built with an ESP32, monitors parking slot availability using an ultrasonic sensor. It displays real-time information on an LCD screen and uploads data to Thingspeak cloud for remote access.
+This Smart Parking System, built with an ESP module, monitors parking slot availability using an ultrasonic sensor. It displays real-time information on an LCD screen and uploads data to Thingspeak cloud for remote access.
 
 ## Features
 
@@ -25,4 +25,5 @@ This Smart Parking System, built with an ESP32, monitors parking slot availabili
 ## Usage
 
 - The system monitors parking slots and displays availability on the LCD.
-- Access data remotely via Thingspeak cloud.
+- Access data remotely via Thingspeak Cloud.
+- You can monitor the same using ThingsViewer Mobile Application
