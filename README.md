@@ -1,5 +1,6 @@
 # IoT Based Smart Car Parking System
 
+
 [![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](LICENSE) 
 
 ## Description
@@ -26,4 +27,4 @@ This Smart Parking System, built with an ESP module, monitors parking slot avail
 
 - The system monitors parking slots and displays availability on the LCD.
 - Access data remotely via Thingspeak Cloud.
-- You can monitor the same using ThingsViewer Mobile Application
+- You can monitor the same using ThingsViewer Mobile Application.
